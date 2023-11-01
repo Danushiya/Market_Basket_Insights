@@ -1,13 +1,13 @@
 # ARTIFICIAL INTELLIGENCE - IBM - Project
 # MARKET BASKET INSIGHTS
 
-# Instructions
+## Instructions
 
 1. Open the Notebook.
 2. Execute each Cell to Run the Code.
 3. View the Results and Outputs for Insights.
 
-# Dependencies
+## Dependencies
 
 - Python 3.7 or Higher
 - pandas, mlxtend, and other required libraries (install using `pip install -r requirements.txt`)
@@ -17,7 +17,7 @@
 - The Dataset is sourced from [Kaggle: Market Basket Analysis](https://www.kaggle.com/datasets/aslanahmedov/market-basket-analysis).
 - We Uploaded the Dataset as Input from the Kaggle Notebook Itself.
 
-# Description
+## Description
 
  - This Project performs Market Basket Analysis to Unveiling Customer Behavior through Association Analysis is a valuable endeavor for our retail business client.
  - It will Provide actionable Insights that can enhance their Decision-making processes and drive increased sales and customer satisfaction.
