@@ -21,6 +21,10 @@ This project follows a phased approach to effectively solve the problem and deli
 - **Generating Insights:** The discovered association rules are analyzed to extract actionable insights that can drive business decisions and strategies.
 
 ## Dependencies
+<div align="left">
+  <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="50" height="50" />
+</div>
+
 - Python 3.7 or higher
 - pandas
 - mlxtend
